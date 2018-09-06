@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/yizhen_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://lantaoyu.github.io/files/yizhen.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 
-*I am persuing a PhD in Bioinformatics and a master in Statistics at Northwestern University starting from 2015. My PhD advisor is [Minoli Perera](http://pereralab.strikingly.com/).
-*My research focuses on developing computional methods to improve eQTL mapping for admixed popualtions, identifying population-specific genetic regulator of gene expression, and characterizing expression profile and genetic regulation under drug drug treatment. See details in [Projects](http://yizhenzhong.github.io/projects).
-*I also work on side projects related to natural language processing and image classficaition. See details in [Projects](http://yizhenzhong.github.io/projects).
+* I am persuing a PhD in Bioinformatics and a Master in Statistics at Northwestern University starting from 2015. My PhD advisor is [Minoli Perera](http://pereralab.strikingly.com/).
+* My research focuses on developing computional methods to improve eQTL mapping for admixed popualtions, identifying population-specific genetic regulators of gene expression, and characterizing expression profile and genetic regulation under drug treatments. See details in [Projects](http://yizhenzhong.github.io/projects).
+* I also work on side projects related to natural language processing and image classficaition. See details in [Projects](http://yizhenzhong.github.io/projects).
 
 
