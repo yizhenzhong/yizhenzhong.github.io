@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## eQTL method
 
-{% include base_path %}
+<b>Zhong Y<b/>, Perera M, Gamazon ER. On using local ancestry to characterize the genetic architecture of human phenotypes: Genetic regulation of gene expression in a multiethnic or admixed populations as a model. <i>In revision.</i>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+## NLP
+
+<b>Yizhen Zhong<b/>, Luke Rasmussen, Jennifer Pacheco, Maureen Smith, Justin Starren, Yuan Luo. Charcterizing Design Patterns of EHR-Driven Phenotype Extraction Algorithms <i>In submission to BIBM 2018.</i>
+
+
+
