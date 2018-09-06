@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Yizhen Zhong"
-  avatar           : "profile.png"
+  avatar           : 
   bio              : "PhD student, Department of Pharmacology, Northwestern University"
   location         : "Chicago, IL"
   employer         :
