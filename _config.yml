@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Yizhen Zhong"
-  avatar           : "/images/yizhen.JPG"
+  avatar           : "yizhen.JPG"
   bio              : "PhD Candidate, Department of Pharmacology, Northwestern University"
   location         : "Chicago, IL"
   employer         :
@@ -98,7 +98,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yizhen-zhong-962b25144/"
   orcid            : 
   pinterest        :
   soundcloud       :
