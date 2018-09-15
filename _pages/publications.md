@@ -13,5 +13,6 @@ author_profile: true
 
 <b>Yizhen Zhong<b/>, Luke Rasmussen, Jennifer Pacheco, Maureen Smith, Justin Starren, Yuan Luo. Charcterizing Design Patterns of EHR-Driven Phenotype Algorithms.  <i>In submission to BIBM 2018.</i>
 
+Himanshu Sharma&, Chengsheng Mao&, Yizhen Zhang, Haleh Vatani, Liang Yao, <b>Yizhen Zhong<b/>, Luke Rasmussen, Guoqian Jiang, Jyotishman Pathak and Yuan Luo*, Developing a portable natural language processing based phenotyping system, BMC Medical Informatics and Decision Making Supplement Issue for HealthNLP 2018. <i>In press.</i>
 
 
