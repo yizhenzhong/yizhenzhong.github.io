@@ -8,10 +8,12 @@ author_profile: true
 {% include base_path %}
 
 eQTL method
+<a href="https://github.com/yizhenzhong/Local_ancestry">eQTL method</a>
 ======
-<p align="center">
+<h2>align="left":</h2>
+<p align="center"> R package (LAMatrix): efficient eQTL mapping adjusting for local ancestry
 <a href="https://github.com/yizhenzhong/Local_ancestry">
-<img src="/images/tsne.png" alt="Photo" style="width: 450px;"> 
+<img src="/images/lamatrix.png" alt="Photo" style="width: 450px;"> 
 </a>
 </p>
 
