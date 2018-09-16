@@ -15,13 +15,13 @@ R package (LAMatrix): efficient eQTL mapping adjusting for local ancestry
 <a href="https://github.com/yizhenzhong/Local_ancestry">
 <img src="/images/lamatrix.png" alt="Photo" style="width: 800px;"> 
 </a>
-</p>ss
+</p>
 
 ## [NLP](https://github.com/yizhenzhong/PhenoPattern)
 
 <p align="center"> 
 Classification and clustering of design patterns extracted from phenotyping algorithms
-
+<br>
 
 <a href="https://github.com/yizhenzhong/PhenoPattern">
 <img src="/images/tsne.png" alt="Photo" style="width: 450px;"> 
@@ -29,6 +29,7 @@ Classification and clustering of design patterns extracted from phenotyping algo
 </p>
 
 
+## [Nuclei detection](https://github.com/YinanZheng/Kaggle2018)
 
 <p align="center">
 Mask R-CNN for nuclei detection
